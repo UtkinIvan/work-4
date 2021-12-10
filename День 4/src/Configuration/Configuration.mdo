@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="93e47c1e-00b6-4d08-a47c-894abaf7f379">
+  <name>МебельДомТорг</name>
+  <synonym>
+    <key>ru</key>
+    <value>ООО &quot;МебельДомТорг&quot;</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="ca4b8191-f4cc-4a42-8965-313f12d475ad"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="b4cd7fdb-b15d-4d39-864f-37257330df7e"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="9399d1e1-9efb-4198-9540-a4d8398a03ad"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="6808167f-05d1-48b4-b1a8-cad653292b67"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="24efde51-25f1-481c-8e7e-ef3aa6b3a39b"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="395ad4e4-55ad-40b9-87eb-df440649a55b"/>
+  <configurationExtensionCompatibilityMode>8.3.8</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousExtensionAndAddInCallUseMode>DontUse</synchronousExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.8</compatibilityMode>
+  <languages uuid="89843a2e-26dc-437a-8448-564eeb49ce06">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+</mdclass:Configuration>
